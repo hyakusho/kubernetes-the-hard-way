@@ -1,0 +1,8 @@
+*.swp
+*key.json
+tmp/*
+!tmp/.keep
+.envrc
+.terraform
+*.tfstate*
+ansible
